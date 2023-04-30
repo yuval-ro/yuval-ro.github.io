@@ -1,0 +1,13 @@
+{
+	"TS RFC": {
+		"prefix": "rfc",
+		"body": [
+			"import React from 'react';\n\n",
+			"type ${TM_FILENAME_BASE}Props = {}\n",
+			"const ${TM_FILENAME_BASE} React.FC = ({ } ${TM_FILENAME_BASE}Props) = {\n",
+			"return (\n\t\t<>\n\n</>\n)\n};\n",
+			"export default ${TM_FILENAME_BASE};"
+		],
+		"description": "React functional component (RFC) boilerplate using TypeScript"
+	}
+}
