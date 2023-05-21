@@ -18,7 +18,7 @@ const home: React.FC = ({ }: homeProps) => {
           This site is currently under construction.
         </h2>
         <p>
-          Please return another time.
+          In the meanwhile, I invite you to check out my <a href='https://github.com/yuval-ro'>Github page</a>.
         </p>
       </Container>
       <BottomNav />
