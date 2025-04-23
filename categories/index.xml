@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Categories on </title>
+    <link>https://blog.yuvalro.com/categories/</link>
+    <description>Recent content in Categories on </description>
+    <image>
+      <title></title>
+      <url>https://blog.yuvalro.com/images/profile.jpeg</url>
+      <link>https://blog.yuvalro.com/images/profile.jpeg</link>
+    </image>
+    <generator>Hugo -- 0.146.7</generator>
+    <language>en</language>
+    <copyright>PaperMod Contributors</copyright>
+    <atom:link href="https://blog.yuvalro.com/categories/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>
